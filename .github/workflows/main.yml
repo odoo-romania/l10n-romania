@@ -1,4 +1,4 @@
-# .github/workflows/git-sync.yml
+# .github/workflows/git-sync.yml fetch from oca
 
 on: push
 jobs:
